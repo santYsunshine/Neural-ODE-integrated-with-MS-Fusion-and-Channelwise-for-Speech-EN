@@ -45,3 +45,7 @@ This project integrates these techniques into a unified architecture that pushes
 
 8. **Skip Connections**:
    Throughout the network, skip connections are used to ensure that information from earlier layers is retained as the signal progresses through deeper layers of the network. These skip connections help to mitigate the vanishing gradient problem and ensure that important features are not lost during the transformation process. The skip connections also contribute to the final output by combining with the output of the later layers, enabling the network to retain both fine-grained and high-level details of the speech signal.
+
+
+**For the other dependencies please refer the Neural Ordinary Differential Equations integrated with Channelwise + Fusion for Speech E.N repository of mine**
+Thank you 
