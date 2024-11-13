@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "nnet/separate.py", line 116, in <module>
+    run(args)
+  File "nnet/separate.py", line 52, in run
+    computer = NnetComputer(args.checkpoint, args.gpu, args.cpt_epoch)
+  File "nnet/separate.py", line 24, in __init__
+    nnet = self._load_nnet(cpt_dir, cpt_epoch)
+  File "nnet/separate.py", line 30, in _load_nnet
+    nnet_conf = load_json(cpt_dir, "mdl.json")
+  File "/media/lab70809/Data01/speech_donoiser_new/main/nnet/libs/utils.py", line 44, in load_json
+    raise FileNotFoundError("Could not find json file: {}".format(path))
+FileNotFoundError: Could not find json file: /media/lab70809/Data02/dataA_save_model/mdl.json

@@ -1,0 +1,1 @@
+2024-03-19 20:13:30 [/media/speech70809/Data01/speech_donoiser_new/main/nnet/libs/trainer.py:255 - INFO ] Loss(time/N, lr=2.500e-04) - Epoch 26: train = -13.2117(706.43m/162000) | dev = -13.3296(3.13m/1620) | no impr, best = -13.3821

@@ -1,0 +1,71 @@
+speech_denoiser) speech70809@speech70809:/media/speech70809/Data01/speech_donoiser_new/synthesizer$ sh synthesize_QUT_tt_data.sh 
+synthesizing CAFEtt
+Time start: 1669197375.2509594
+Number of files to be synthesized: 1800
+read noise csv
+noisetypes:  ['CAFE']
+max:  4
+min:  4
+Audio generation failed for filenum 390
+noise_counter:  16
+repeat times:  4
+noise_counter:  16
+repeat times:  4
+Audio generation failed for filenum 331
+Audio generation failed for filenum 271
+Audio generation failed for filenum 331
+noise_counter:  24
+repeat times:  6
+noise_counter:  28
+repeat times:  7
+noise_counter:  32
+repeat times:  8
+noise_counter:  36
+repeat times:  9
+noise_counter:  36
+repeat times:  9
+Audio generation failed for filenum 422
+Audio generation failed for filenum 62
+noise_counter:  40
+repeat times:  10
+noise_counter:  44
+repeat times:  11
+noise_counter:  48
+repeat times:  12
+noise_counter:  52
+repeat times:  13
+Audio generation failed for filenum 422
+Audio generation failed for filenum 422
+Audio generation failed for filenum 123
+noise_counter:  56
+repeat times:  14
+noise_counter:  60
+repeat times:  15
+noise_counter:  68
+repeat times:  17
+Audio generation failed for filenum 153
+Audio generation failed for filenum 153
+noise_counter:  72
+repeat times:  18
+Audio generation failed for filenum 64
+noise_counter:  76
+repeat times:  19
+noise_counter:  80
+repeat times:  20
+noise_counter:  84
+repeat times:  21
+Audio generation failed for filenum 65
+Audio generation failed for filenum 65
+noise_counter:  88
+repeat times:  22
+Audio generation failed for filenum 35
+noise_counter:  92
+repeat times:  23
+noise_counter:  96
+repeat times:  24
+noise_counter:  96
+repeat times:  24
+noise_counter:  100
+repeat times:  25
+noise_counter:  104
+repeat times:  26
